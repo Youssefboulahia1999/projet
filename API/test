@@ -1,0 +1,6 @@
+
+
+tableaus = [9, 19, 10, 18, 74, 7, 56]
+
+for tableau in tableaus: 
+    print('test', tableau)
